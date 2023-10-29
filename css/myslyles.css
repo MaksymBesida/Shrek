@@ -32,12 +32,12 @@ p{
     -webkit-text-stroke-color: greenyellow;
 }
 
-#menu{
+header{
     background-color: greenyellow;
 }
 
 #promo{
-    background-image: url('../images/R\ 1.png');
+    background-image: url('../images/R\ 1.png') ;
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-size: auto;
