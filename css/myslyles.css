@@ -1,6 +1,6 @@
 @font-face {
     font-family: myFirstFont;
-    src: url(/SHREK___.TTF);
+    src: url(SHREK___.TTF);
   }
   
 
@@ -37,7 +37,7 @@ p{
 }
 
 #promo{
-    background-image: url(/images/R\ 1.png);
+    background-image: url(images/R\ 1.png);
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-size: auto;
@@ -81,7 +81,7 @@ section {
 button {
     padding: 50px;
     font-family: myFirstFont;
-    background-image: url(/images/image\ 14.png);
+    background-image: url(images/image\ 14.png);
     font-size: 50px;
     color: red;
 }
