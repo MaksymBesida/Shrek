@@ -1,0 +1,87 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(/SHREK___.TTF);
+  }
+  
+
+h1{
+    color: darkred;
+    font-family:myFirstFont;
+}
+
+h2{
+    color: chartreuse;
+    font-family:myFirstFont;
+}
+
+h4{
+    color: rgb(38, 146, 44);
+    font-family:myFirstFont;
+    font-size: 130px;
+    font-weight: bold;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: greenyellow;
+    -webkit-text-fill-color: transparent;
+}
+
+p{
+    font-family: myFirstFont;
+    font-size: 30px;
+    color: rgb(54, 53, 29);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: greenyellow;
+}
+
+#menu{
+    background-color: greenyellow;
+}
+
+#promo{
+    background-image: url(/images/R\ 1.png);
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: auto;
+}
+
+#portfolio{
+    background-color: greenyellow;
+    
+}
+
+#advantages{
+    background-color: green;
+    text-align: center;
+}
+
+#numbers{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+#contacts{
+    background-color: green;
+    text-align: center;
+}
+
+#footer{background-color: greenyellow;}
+
+.container{
+    width: 80%;
+}
+
+img{
+    padding: 20px;
+}
+
+section {
+    padding-top: 100px;
+    padding-bottom: 100 px;
+}
+
+button {
+    padding: 50px;
+    font-family: myFirstFont;
+    background-image: url(/images/image\ 14.png);
+    font-size: 50px;
+    color: red;
+}
